@@ -1,73 +1,247 @@
-# Resumo – Aula 01: Apresentação da Disciplina e Contextualização
+📚 Frameworks Front-end
 
-## Disciplina
-**Frameworks Front-end**
+Repositório de materiais, conteúdos e atividades da disciplina Frameworks Front-end.
 
-## Objetivos da Aula
-- Apresentar a disciplina e o plano de ensino.
-- Explicar a metodologia de ensino.
-- Apresentar os critérios de avaliação.
-- Contextualizar a importância dos frameworks Front-end.
-- Introduzir as atividades do semestre.
+🎯 Objetivo da Disciplina
 
-## O que é Front-end?
-O Front-end é a camada da aplicação responsável pela interface com o usuário. Seu objetivo é criar páginas organizadas, responsivas e de fácil utilização, garantindo uma boa experiência de navegação.
+A disciplina tem como finalidade desenvolver competências para a programação de aplicações web responsivas, utilizando tecnologias e frameworks modernos voltados ao desenvolvimento de interfaces para a internet.
 
-## Importância dos Frameworks Front-end
-Os frameworks Front-end são amplamente utilizados no desenvolvimento web moderno por permitirem:
-- Maior produtividade.
-- Reutilização de componentes.
-- Organização do código.
-- Facilidade de manutenção.
-- Desenvolvimento de interfaces modernas.
+Ao longo da disciplina, serão trabalhados conceitos de desenvolvimento Front-end, frameworks para CSS e frameworks para Front-end, além de boas práticas, responsividade, experiência do usuário e desenvolvimento de aplicações web.
 
-Os principais frameworks apresentados foram:
-- React
-- Vue.js
-- Angular
+📖 Conteúdos da Disciplina
 
-## Conteúdos que serão estudados
-Durante o semestre serão abordados:
-- HTML, CSS e JavaScript (Vanilla JS);
-- Versionamento com Git e GitHub;
-- Deploy de aplicações utilizando Vercel;
-- Frameworks Front-end;
-- Componentização;
-- Gerenciamento de estado;
-- Rotas;
-- Integração com APIs;
-- Boas práticas de desenvolvimento.
+🌐 Tecnologias Front-end
 
-## Objetivos da Disciplina
-Ao final do semestre o aluno deverá ser capaz de:
-- Desenvolver interfaces modernas;
-- Criar aplicações utilizando Frameworks Front-end;
-- Utilizar Git e GitHub;
-- Publicar aplicações na Web.
+Conceitos de desenvolvimento Front-end
 
-## Metodologia
-As aulas serão compostas por:
-- Aulas expositivas;
-- Discussões em grupo;
-- Estudos de caso;
-- Desenvolvimento de projetos práticos.
+Responsividade
 
-## Critérios de Avaliação
-A avaliação será composta por:
-- **55%** Avaliação Docente
-  - 20% Desenvolvimento do Projeto
-  - 20% Apresentação
-  - 15% Atividades
-- **35%** Projeto Integrador
-- **10%** Autoavaliação
+Ferramentas do desenvolvedor
 
-## Atividades da Aula
-1. Criar um projeto utilizando HTML, CSS e JavaScript.
-2. Conectar o projeto ao GitHub.
-3. Realizar o deploy utilizando a plataforma Vercel.
-4. Criar um repositório no GitHub contendo este arquivo Markdown.
-5. Em grupo, elaborar um relatório técnico sobre um Framework Front-end.
+Conceitos de Framework
 
-## Conclusão
-A primeira aula apresentou a estrutura da disciplina, os conteúdos que serão desenvolvidos durante o semestre e destacou a importância dos Frameworks Front-end para o desenvolvimento de aplicações web modernas. Também foram apresentados os critérios de avaliação e as primeiras atividades práticas.
+🎨 Framework para CSS
 
+Definição
+
+Instalação
+
+Configuração
+
+Utilização
+
+⚛️ Framework para Front-end
+
+Definição
+
+Configuração do ambiente
+
+Gerenciamento de pacotes (NPM)
+
+Rotas
+
+Componentes
+
+Propriedades
+
+Estados
+
+🗓️ Aulas
+
+Aula
+
+Conteúdo
+
+Material
+
+01
+
+Apresentação da Disciplina e Contextualização
+
+🔗 Aula 01
+
+02
+
+Configuração do Ambiente de Desenvolvimento
+
+—
+
+03
+
+Responsividade e Ferramentas do Desenvolvedor
+
+—
+
+04
+
+Frameworks CSS
+
+—
+
+05
+
+Projeto Integrador (PII) – Planejamento da Interface
+
+—
+
+06
+
+Introdução aos Frameworks Front-end
+
+—
+
+07
+
+Estrutura de um Projeto Front-end
+
+—
+
+08
+
+Componentes e Propriedades
+
+—
+
+09
+
+Projeto Integrador (PII) – Desenvolvimento da Interface
+
+—
+
+10
+
+Estados e Eventos
+
+—
+
+11
+
+Rotas e Navegação
+
+—
+
+12
+
+Autoavaliação Institucional
+
+—
+
+13
+
+Projeto Integrador (PII) – Integração dos Componentes
+
+—
+
+14
+
+Boas Práticas no Desenvolvimento Front-end
+
+—
+
+15
+
+Avaliação Integradora
+
+—
+
+16
+
+Publicação e Deploy de Aplicações
+
+—
+
+17
+
+Preparação das Apresentações do Projeto
+
+—
+
+18
+
+Bancas do Projeto Integrador e Autoavaliação Discente
+
+—
+
+19
+
+Tendências em Desenvolvimento Front-end
+
+—
+
+20
+
+Revisão Geral e Encerramento da Disciplina
+
+—
+
+🧑‍💻 Capacidades Desenvolvidas
+
+Ao final da disciplina, espera-se que o estudante seja capaz de:
+
+Configurar ambientes de desenvolvimento para aplicações Web;
+
+Aplicar tecnologias Front-end na construção de interfaces;
+
+Elaborar códigos seguindo boas práticas e convenções de desenvolvimento;
+
+Definir frameworks adequados às necessidades do projeto;
+
+Desenvolver aplicações web responsivas considerando princípios de UX;
+
+Utilizar Git e GitHub;
+
+Publicar aplicações na Web.
+
+📝 Metodologia
+
+Aulas expositivas dialogadas;
+
+Demonstrações práticas;
+
+Discussões e estudos de caso;
+
+Desenvolvimento de aplicações;
+
+Exercícios individuais e em grupo;
+
+Atividades em laboratório;
+
+Projetos práticos;
+
+Avaliações teóricas e práticas.
+
+📊 Avaliação
+
+55% — Avaliação Docente
+
+20% — Desenvolvimento de Projeto
+
+20% — Apresentação do Projeto
+
+15% — Realização das atividades
+
+35% — Projeto Integrador
+
+10% — Autoavaliação
+
+📚 Referências
+
+Bibliografia Básica
+
+SOUZA, Natan. Bootstrap 4: conheça a biblioteca front-end mais utilizada no mundo. São Paulo: Casa do Código, 2018.
+
+MACHADO, Kheronn Khennedy. Angular 11 e Firebase: construindo uma aplicação integrada com a plataforma do Google. São Paulo: Casa do Código, 2021.
+
+EIS, Diego. Guia Front-end: o caminho das pedras para ser um dev Front-end. São Paulo: Casa do Código, 2015.
+
+Bibliografia Complementar
+
+GONÇALVES, Edson. Desenvolvendo Aplicações Web com JSP, Servlets, JavaServer Faces, Hibernate, EJB 3 Persistence e Ajax. Rio de Janeiro: Ciência Moderna, 2007.
+
+HARTCOPP, Patrícia Ferreira. Métrica Web. São Paulo: Contentus, 2020.
+
+NIEDERAUER, Juliano. Desenvolvendo Websites com PHP. 3. ed. São Paulo: Novatec, 2017.
+
+PREECE, Jennifer; ROGERS, Yvonne; SHARP, Helen. Design de Interação: além da interação Homem-Computador. 3. ed. Porto Alegre: Bookman, 2013.
+
+SOUSA, Roque Fernando Marcos. Canvas HTML5: composição gráfica e interatividade na Web. Rio de Janeiro: Brasport, 2014.
