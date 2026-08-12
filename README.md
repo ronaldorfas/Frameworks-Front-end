@@ -40,7 +40,7 @@ Ao longo da disciplina, serão trabalhados conceitos de desenvolvimento Front-en
 
 | Aula | Conteúdo | Material |
 |:---:|---|:---:|
-| **01** | Apresentação da Disciplina e Contextualização | **[🔗 [Aula 01](COLE_AQUI_O_LINK_DA_AULA_01](https://github.com/ronaldorfas/Aula-1/tree/main))** |
+| **01** | Apresentação da Disciplina e Contextualização | **[🔗 [Aula 01](COLE_AQUI_O_LINK_DA_AULA_01](https://github.com/ronaldorfas/Aula-1/tree/main))**] |
 | **02** | Configuração do Ambiente de Desenvolvimento | — |
 | **03** | Responsividade e Ferramentas do Desenvolvedor | — |
 | **04** | Frameworks CSS | — |
