@@ -44,7 +44,6 @@ Ao longo da disciplina, serão trabalhados conceitos de desenvolvimento Front-en
 | **02** | Configuração do Ambiente de Desenvolvimento | **[🔗 Aula 02](https://github.com/ronaldorfas/aula-02-Configura-o-do-Ambiente-de-Desenvolvimento)** |
 | **03** | Responsividade e Ferramentas do Desenvolvedor | **[🔗 Aula 03](https://github.com/ronaldorfas/Aula-03-Projetos-com-Frameworks-Front-end.git)** |
 | **04** | Insira o Título da Aula 04 Aqui | **[🔗 Aula 04](INSIRA_O_LINK_DA_AULA_QUATRO_AQUI)** |
-| **04** | Frameworks CSS | — | **[🔗 Aula 04](https://github.com/ronaldorfas/Aula-04-Consumindo-APIs-no-Front-end)** |
 | **05** | Projeto Integrador (PII) – Planejamento da Interface | — |
 | **06** | Introdução aos Frameworks Front-end | — |
 | **07** | Estrutura de um Projeto Front-end | — |
