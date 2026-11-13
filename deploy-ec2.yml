@@ -1,0 +1,29 @@
+name: Deploy na EC2
+
+on:
+  workflow_run:
+    workflows: [Publicar imagens no Docker Hub]
+    types: [completed]
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    if: github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'success'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Baixar e iniciar containers
+        uses: appleboy/ssh-action@v1.2.0
+        env:
+          DOCKERHUB_USERNAME: ${{ secrets.DOCKERHUB_USERNAME }}
+        with:
+          host: ${{ secrets.EC2_HOST }}
+          username: ${{ secrets.EC2_USER }}
+          key: ${{ secrets.EC2_SSH_KEY }}
+          envs: DOCKERHUB_USERNAME
+          script: |
+            sudo docker pull "$DOCKERHUB_USERNAME/tetris-api:latest"
+            sudo docker pull "$DOCKERHUB_USERNAME/tetris-frontend:latest"
+            sudo docker rm -f tetris-api 2>/dev/null || true
+            sudo docker rm -f tetris-frontend 2>/dev/null || true
+            sudo docker run -d --name tetris-api --restart unless-stopped -p 8080:8080 "$DOCKERHUB_USERNAME/tetris-api:latest"
+            sudo docker run -d --name tetris-frontend --restart unless-stopped -p 80:80 "$DOCKERHUB_USERNAME/tetris-frontend:latest"
