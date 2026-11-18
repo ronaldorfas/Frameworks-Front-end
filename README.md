@@ -47,10 +47,9 @@ Ao longo da disciplina, serão trabalhados conceitos de desenvolvimento Front-en
 | **05** | Projeto Integrador (PII) – Planejamento da Interface | **[🔗 Aula 05](https://github.com/ronaldorfas/Aula-05-Criando-APIs-para-o-Front-end/tree/main)** |
 | **06** | Projetos Front-End. | **[🔗 Aula 06](https://github.com/ronaldorfas/Projetos-Front-End-Aula-06)** |
 | **07** | Frameworks-CSS. | **[🔗 Aula 07](https://github.com/ronaldorfas/Aula-7-Frameworks-CSS)** |
-| **08/09** | Projeto React.pdf | — |
+| **08/09** | Projeto React.pdf | **[🔗 Aula 08/09](https://github.com/ronaldorfas/aula-frameworks-frontend-08-09))** |
 
-| **15** | Avaliação Integradora | — |
-
+| **10** | Avaliação Integradora | — |
 
 ---
 
